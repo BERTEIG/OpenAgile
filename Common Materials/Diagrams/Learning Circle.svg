@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 27940 21590"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre3 r22311"
+   width="210mm"
+   height="297mm"
+   sodipodi:docname="Learning Circle.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Volumes/MATERIALS/en/images/Generic Process Diagram.png"
+   inkscape:export-xdpi="299.87527"
+   inkscape:export-ydpi="299.87527"
+   sodipodi:modified="TRUE">
+  <metadata
+     id="metadata1816">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="878"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.2272101"
+     inkscape:cx="195.17394"
+     inkscape:cy="585.24829"
+     inkscape:window-x="29"
+     inkscape:window-y="40"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective276" />
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopM"
+       style="overflow:visible">
+      <path
+         id="path3625"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible">
+      <path
+         id="path3628"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       inkscape:stockid="InfiniteLineEnd"
+       id="InfiniteLineEnd"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <g
+         id="g3556">
+        <circle
+           id="circle3558"
+           r="0.8"
+           cy="0"
+           cx="3" />
+        <circle
+           id="circle3560"
+           r="0.8"
+           cy="0"
+           cx="6.5" />
+        <circle
+           id="circle3562"
+           r="0.8"
+           cy="0"
+           cx="10" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       inkscape:stockid="InfiniteLineStart"
+       id="InfiniteLineStart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <g
+         id="g3547"
+         transform="translate(-13,0)">
+        <circle
+           id="circle3549"
+           r="0.8"
+           cy="0"
+           cx="3"
+           d="M 3.8,0 C 3.8,0.44182781 3.4418278,0.80000001 3,0.80000001 2.5581722,0.80000001 2.2,0.44182781 2.2,0 c 0,-0.44182781 0.3581722,-0.80000001 0.8,-0.80000001 0.4418278,0 0.8,0.3581722 0.8,0.80000001 z" />
+        <circle
+           id="circle3551"
+           r="0.8"
+           cy="0"
+           cx="6.5"
+           d="M 7.3,0 C 7.3,0.44182781 6.9418278,0.80000001 6.5,0.80000001 6.0581722,0.80000001 5.7,0.44182781 5.7,0 c 0,-0.44182781 0.3581722,-0.80000001 0.8,-0.80000001 0.4418278,0 0.8,0.3581722 0.8,0.80000001 z" />
+        <circle
+           id="circle3553"
+           r="0.8"
+           cy="0"
+           cx="10"
+           d="M 10.8,0 C 10.8,0.44182781 10.441828,0.80000001 10,0.80000001 9.5581722,0.80000001 9.2,0.44182781 9.2,0 c 0,-0.44182781 0.3581722,-0.80000001 0.8,-0.80000001 0.441828,0 0.8,0.3581722 0.8,0.80000001 z" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3714"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path8738"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         id="path8726"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path7770"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path7696"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <font
+       id="EmbeddedFont_1"
+       horiz-adv-x="2048">
+      <font-face
+         font-family="Arial embedded"
+         units-per-em="2048"
+         ascent="1852"
+         descent="450"
+         id="font-face7" />
+      <missing-glyph
+         horiz-adv-x="2048"
+         id="missing-glyph9">
+        <path
+           style="fill:none;stroke:black;stroke-width:33"
+           d="M 0,2048 L 2047,2048 2047,1 0,1 0,2048 Z"
+           id="path11" />
+      </missing-glyph>
+      <glyph
+         unicode=" "
+         horiz-adv-x="979"
+         id="glyph13" />
+      <glyph
+         unicode="+"
+         horiz-adv-x="953"
+         id="glyph15">
+        <path
+           d="M 513,237 L 513,639 114,639 114,807 513,807 513,1206 683,1206 683,807 1082,807 1082,639 683,639 683,237 513,237 Z"
+           id="path17" />
+      </glyph>
+      <glyph
+         unicode=","
+         horiz-adv-x="212"
+         id="glyph19">
+        <path
+           d="M 182,0 C 182,0 182,0 182,205 182,205 182,205 387,205 387,205 387,205 387,0 387,-75 374,-136 347,-182 320,-229 278,-265 220,-290 220,-290 220,-290 170,-213 208,-196 236,-172 254,-139 272,-107 282,-61 284,0 284,0 284,0 182,0 Z"
+           id="path21" />
+      </glyph>
+      <glyph
+         unicode="1"
+         horiz-adv-x="530"
+         id="glyph23">
+        <path
+           d="M 763,0 C 763,0 763,0 583,0 583,0 583,0 583,1147 540,1106 483,1064 413,1023 342,982 279,951 223,930 223,930 223,930 223,1104 324,1151 412,1209 487,1276 562,1343 616,1409 647,1472 647,1472 647,1472 763,1472 763,1472 763,1472 763,0 Z"
+           id="path25" />
+      </glyph>
+      <glyph
+         unicode="A"
+         horiz-adv-x="1376"
+         id="glyph27">
+        <path
+           d="M -3,0 L 560,1466 769,1466 1369,0 1148,0 977,444 364,444 203,0 -3,0 Z M 420,602 C 420,602 420,602 917,602 917,602 917,602 764,1008 717,1131 683,1233 660,1312 641,1218 615,1125 581,1032 581,1032 581,1032 420,602 Z"
+           id="path29" />
+      </glyph>
+      <glyph
+         unicode="B"
+         horiz-adv-x="1086"
+         id="glyph31">
+        <path
+           d="M 150,0 C 150,0 150,0 150,1466 150,1466 150,1466 700,1466 812,1466 902,1451 970,1422 1037,1392 1090,1346 1129,1285 1167,1223 1186,1158 1186,1091 1186,1028 1169,969 1135,914 1101,859 1050,814 981,780 1070,754 1138,710 1186,647 1233,584 1257,510 1257,425 1257,356 1243,293 1214,234 1185,175 1149,129 1106,97 1063,65 1010,41 946,25 881,8 802,0 709,0 709,0 709,0 150,0 Z M 344,850 C 344,850 344,850 661,850 747,850 809,856 846,867 895,882 933,906 958,940 983,974 995,1017 995,1068 995,1117 983,1160 960,1197 937,1234 903,1259 860,1273 817,1286 742,1293 637,1293 637,1293 637,1293 344,1293 344,1293 344,1293 344,850 Z M 344,173 C 344,173 344,173 709,173 772,173 816,175 841,180 886,188 923,201 953,220 983,239 1008,266 1027,302 1046,337 1056,378 1056,425 1056,480 1042,527 1014,568 986,608 947,636 898,653 848,669 776,677 683,677 683,677 683,677 344,677 344,677 344,677 344,173 Z"
+           id="path33" />
+      </glyph>
+      <glyph
+         unicode="D"
+         horiz-adv-x="1191"
+         id="glyph35">
+        <path
+           d="M 158,0 C 158,0 158,0 158,1466 158,1466 158,1466 663,1466 777,1466 864,1459 924,1445 1008,1426 1080,1391 1139,1340 1216,1275 1274,1191 1313,1090 1351,988 1370,872 1370,741 1370,630 1357,531 1331,445 1305,359 1272,288 1231,232 1190,175 1146,131 1098,99 1049,66 991,42 923,25 854,8 776,0 687,0 687,0 687,0 158,0 Z M 352,173 C 352,173 352,173 665,173 762,173 838,182 893,200 948,218 991,243 1024,276 1070,322 1106,384 1132,462 1157,539 1170,633 1170,744 1170,897 1145,1015 1095,1098 1044,1180 983,1235 911,1263 859,1283 775,1293 660,1293 660,1293 660,1293 352,1293 352,1293 352,1293 352,173 Z"
+           id="path37" />
+      </glyph>
+      <glyph
+         unicode="G"
+         horiz-adv-x="1350"
+         id="glyph39">
+        <path
+           d="M 844,575 C 844,575 844,575 844,747 844,747 844,747 1465,748 1465,748 1465,748 1465,204 1370,128 1271,71 1170,33 1069,-6 965,-25 858,-25 714,-25 583,6 466,68 348,129 259,218 199,335 139,452 109,582 109,726 109,869 139,1002 199,1126 258,1249 344,1341 456,1401 568,1461 697,1491 843,1491 949,1491 1045,1474 1131,1440 1216,1405 1283,1357 1332,1296 1381,1235 1418,1155 1443,1056 1443,1056 1443,1056 1268,1008 1246,1083 1219,1141 1186,1184 1153,1227 1107,1261 1046,1287 985,1312 918,1325 844,1325 755,1325 679,1312 614,1285 549,1258 497,1222 458,1178 418,1134 387,1086 365,1033 328,942 309,844 309,738 309,607 332,498 377,410 422,322 487,257 573,214 659,171 750,150 847,150 931,150 1013,166 1093,199 1173,231 1234,265 1275,302 1275,302 1275,302 1275,575 1275,575 1275,575 844,575 Z"
+           id="path41" />
+      </glyph>
+      <glyph
+         unicode="I"
+         horiz-adv-x="186"
+         id="glyph43">
+        <path
+           d="M 191,0 L 191,1466 385,1466 385,0 191,0 Z"
+           id="path45" />
+      </glyph>
+      <glyph
+         unicode="M"
+         horiz-adv-x="1377"
+         id="glyph47">
+        <path
+           d="M 152,0 C 152,0 152,0 152,1466 152,1466 152,1466 444,1466 444,1466 444,1466 791,428 823,331 846,259 861,211 878,264 904,343 939,446 939,446 939,446 1290,1466 1290,1466 1290,1466 1551,1466 1551,1466 1551,1466 1551,0 1551,0 1551,0 1364,0 1364,0 1364,0 1364,1227 1364,1227 1364,1227 938,0 938,0 938,0 763,0 763,0 763,0 339,1248 339,1248 339,1248 339,0 339,0 339,0 152,0 Z"
+           id="path49" />
+      </glyph>
+      <glyph
+         unicode="N"
+         horiz-adv-x="1138"
+         id="glyph51">
+        <path
+           d="M 156,0 L 156,1466 355,1466 1125,315 1125,1466 1311,1466 1311,0 1112,0 342,1152 342,0 156,0 Z"
+           id="path53" />
+      </glyph>
+      <glyph
+         unicode="P"
+         horiz-adv-x="1113"
+         id="glyph55">
+        <path
+           d="M 158,0 C 158,0 158,0 158,1466 158,1466 158,1466 711,1466 808,1466 883,1461 934,1452 1006,1440 1066,1417 1115,1384 1164,1350 1203,1303 1233,1242 1262,1181 1277,1115 1277,1042 1277,917 1237,812 1158,726 1079,639 935,596 728,596 728,596 728,596 352,596 352,596 352,596 352,0 352,0 352,0 158,0 Z M 352,769 C 352,769 352,769 731,769 856,769 945,792 998,839 1051,886 1077,951 1077,1036 1077,1097 1062,1150 1031,1194 1000,1237 959,1266 908,1280 875,1289 815,1293 727,1293 727,1293 727,1293 352,1293 352,1293 352,1293 352,769 Z"
+           id="path57" />
+      </glyph>
+      <glyph
+         unicode="Q"
+         horiz-adv-x="1430"
+         id="glyph59">
+        <path
+           d="M 1269,157 C 1359,95 1442,50 1518,21 1518,21 1518,21 1461,-114 1356,-76 1251,-16 1146,66 1037,5 917,-25 786,-25 653,-25 533,7 425,71 317,135 234,225 176,341 117,457 88,588 88,733 88,878 117,1009 176,1128 235,1247 318,1337 427,1399 535,1461 656,1492 790,1492 925,1492 1047,1460 1156,1396 1265,1331 1348,1241 1405,1126 1462,1010 1490,879 1490,734 1490,613 1472,505 1435,409 1398,312 1343,228 1269,157 Z M 842,405 C 954,374 1046,327 1119,265 1233,369 1290,525 1290,734 1290,853 1270,956 1230,1045 1189,1134 1130,1203 1053,1252 975,1301 888,1325 791,1325 646,1325 526,1276 431,1177 336,1078 288,930 288,733 288,542 335,396 430,294 524,192 644,141 791,141 860,141 926,154 987,180 926,219 862,247 795,264 795,264 795,264 842,405 Z"
+           id="path61" />
+      </glyph>
+      <glyph
+         unicode="R"
+         horiz-adv-x="1271"
+         id="glyph63">
+        <path
+           d="M 161,0 C 161,0 161,0 161,1466 161,1466 161,1466 811,1466 942,1466 1041,1453 1109,1427 1177,1400 1231,1354 1272,1287 1313,1220 1333,1147 1333,1066 1333,962 1299,874 1232,803 1165,732 1061,686 920,667 971,642 1010,618 1037,594 1094,542 1147,477 1198,399 1198,399 1198,399 1453,0 1453,0 1453,0 1209,0 1209,0 1209,0 1015,305 958,393 912,460 875,507 838,554 806,586 777,605 748,624 718,637 688,644 666,649 630,651 580,651 580,651 580,651 355,651 355,651 355,651 355,0 355,0 355,0 161,0 Z M 355,819 C 355,819 355,819 772,819 861,819 930,828 980,847 1030,865 1068,894 1094,935 1120,975 1133,1019 1133,1066 1133,1135 1108,1192 1058,1237 1007,1282 928,1304 819,1304 819,1304 819,1304 355,1304 355,1304 355,1304 355,819 Z"
+           id="path65" />
+      </glyph>
+      <glyph
+         unicode="S"
+         horiz-adv-x="1139"
+         id="glyph67">
+        <path
+           d="M 92,471 C 92,471 92,471 275,487 284,414 304,354 336,307 367,260 416,222 483,193 550,164 625,149 708,149 782,149 847,160 904,182 961,204 1003,234 1031,273 1058,311 1072,353 1072,398 1072,444 1059,484 1032,519 1005,553 961,582 900,605 861,620 774,644 639,677 504,709 410,739 356,768 286,805 234,850 200,905 165,959 148,1020 148,1087 148,1161 169,1230 211,1295 253,1359 314,1408 395,1441 476,1474 565,1491 664,1491 773,1491 869,1474 952,1439 1035,1404 1098,1352 1143,1284 1188,1216 1212,1139 1215,1053 1215,1053 1215,1053 1029,1039 1019,1132 985,1202 928,1249 870,1296 785,1320 672,1320 555,1320 469,1299 416,1256 362,1213 335,1161 335,1100 335,1047 354,1004 392,970 429,936 527,901 685,866 842,830 950,799 1009,772 1094,733 1157,683 1198,623 1239,562 1259,493 1259,414 1259,336 1237,263 1192,194 1147,125 1083,71 1000,33 916,-6 822,-25 717,-25 584,-25 473,-6 384,33 294,72 224,130 173,208 122,285 95,373 92,471 Z"
+           id="path69" />
+      </glyph>
+      <glyph
+         unicode="T"
+         horiz-adv-x="1166"
+         id="glyph71">
+        <path
+           d="M 531,0 L 531,1293 48,1293 48,1466 1210,1466 1210,1293 725,1293 725,0 531,0 Z"
+           id="path73" />
+      </glyph>
+      <glyph
+         unicode="W"
+         horiz-adv-x="1986"
+         id="glyph75">
+        <path
+           d="M 414,0 C 414,0 414,0 25,1466 25,1466 25,1466 224,1466 224,1466 224,1466 447,505 471,404 492,304 509,205 546,362 568,452 575,476 575,476 575,476 854,1466 854,1466 854,1466 1088,1466 1088,1466 1088,1466 1298,724 1351,540 1389,367 1412,205 1431,298 1455,404 1485,524 1485,524 1485,524 1715,1466 1715,1466 1715,1466 1910,1466 1910,1466 1910,1466 1508,0 1508,0 1508,0 1321,0 1321,0 1321,0 1012,1117 986,1210 971,1268 966,1289 951,1222 936,1164 923,1117 923,1117 923,1117 612,0 612,0 612,0 414,0 Z"
+           id="path77" />
+      </glyph>
+      <glyph
+         unicode="a"
+         horiz-adv-x="980"
+         id="glyph79">
+        <path
+           d="M 828,131 C 761,74 697,34 636,11 574,-12 508,-24 437,-24 320,-24 231,5 168,62 105,119 74,191 74,280 74,332 86,380 110,423 133,466 164,500 203,526 241,552 284,572 332,585 367,594 421,603 492,612 637,629 744,650 813,674 814,699 814,714 814,721 814,794 797,846 763,876 717,917 649,937 558,937 473,937 411,922 371,893 330,863 300,810 281,735 281,735 281,735 105,759 121,834 147,895 184,942 221,988 274,1024 343,1049 412,1074 493,1086 584,1086 675,1086 748,1075 805,1054 862,1033 903,1006 930,974 957,941 975,900 986,851 992,820 995,765 995,685 995,685 995,685 995,445 995,278 999,172 1007,128 1014,83 1029,41 1052,0 1052,0 1052,0 864,0 845,37 833,81 828,131 Z M 813,533 C 748,506 650,484 519,465 445,454 393,442 362,429 331,416 308,396 291,371 274,345 266,316 266,285 266,237 284,197 321,165 357,133 410,117 480,117 549,117 611,132 665,163 719,193 759,234 784,287 803,328 813,388 813,467 813,467 813,467 813,533 Z"
+           id="path81" />
+      </glyph>
+      <glyph
+         unicode="b"
+         horiz-adv-x="901"
+         id="glyph83">
+        <path
+           d="M 301,0 C 301,0 301,0 134,0 134,0 134,0 134,1466 134,1466 134,1466 314,1466 314,1466 314,1466 314,943 390,1038 487,1086 605,1086 670,1086 732,1073 791,1047 849,1020 897,983 935,936 972,888 1002,830 1023,763 1044,696 1055,624 1055,547 1055,365 1010,224 920,125 830,26 722,-24 596,-24 471,-24 372,28 301,133 301,133 301,133 301,0 Z M 299,539 C 299,412 316,320 351,263 408,170 484,124 581,124 660,124 728,158 785,227 842,295 871,397 871,532 871,671 844,773 789,839 734,905 667,938 589,938 510,938 442,904 385,836 328,767 299,668 299,539 Z"
+           id="path85" />
+      </glyph>
+      <glyph
+         unicode="c"
+         horiz-adv-x="927"
+         id="glyph87">
+        <path
+           d="M 828,389 C 828,389 828,389 1005,366 986,244 936,149 857,80 777,11 679,-24 563,-24 418,-24 301,24 213,119 124,214 80,350 80,527 80,642 99,742 137,828 175,914 233,979 311,1022 388,1065 473,1086 564,1086 679,1086 774,1057 847,999 920,940 967,857 988,750 988,750 988,750 813,723 796,794 767,848 725,884 682,920 631,938 571,938 480,938 407,906 350,841 293,776 265,673 265,532 265,389 292,286 347,221 402,156 473,124 561,124 632,124 691,146 738,189 785,232 815,299 828,389 Z"
+           id="path89" />
+      </glyph>
+      <glyph
+         unicode="d"
+         horiz-adv-x="927"
+         id="glyph91">
+        <path
+           d="M 824,0 C 824,0 824,0 824,134 757,29 658,-24 527,-24 442,-24 365,-1 294,46 223,93 168,158 129,242 90,325 70,421 70,530 70,636 88,732 123,819 158,905 211,971 282,1017 353,1063 432,1086 519,1086 583,1086 640,1073 690,1046 740,1019 781,983 812,940 812,940 812,940 812,1466 812,1466 812,1466 991,1466 991,1466 991,1466 991,0 991,0 991,0 824,0 Z M 255,530 C 255,394 284,292 341,225 398,158 466,124 544,124 623,124 690,156 745,221 800,285 827,383 827,515 827,660 799,767 743,835 687,903 618,937 536,937 456,937 389,904 336,839 282,774 255,671 255,530 Z"
+           id="path93" />
+      </glyph>
+      <glyph
+         unicode="e"
+         horiz-adv-x="980"
+         id="glyph95">
+        <path
+           d="M 862,342 C 862,342 862,342 1048,319 1019,210 964,126 885,66 806,6 704,-24 581,-24 426,-24 303,24 212,120 121,215 75,349 75,522 75,701 121,839 213,938 305,1037 424,1086 571,1086 713,1086 829,1038 919,941 1009,844 1054,708 1054,533 1054,522 1054,506 1053,485 1053,485 1053,485 261,485 268,368 301,279 360,217 419,155 493,124 582,124 648,124 704,141 751,176 798,211 835,266 862,342 Z M 271,633 C 271,633 271,633 864,633 856,722 833,789 796,834 739,903 664,938 573,938 490,938 421,910 365,855 308,800 277,726 271,633 Z"
+           id="path97" />
+      </glyph>
+      <glyph
+         unicode="f"
+         horiz-adv-x="610"
+         id="glyph99">
+        <path
+           d="M 178,0 C 178,0 178,0 178,922 178,922 178,922 19,922 19,922 19,922 19,1062 19,1062 19,1062 178,1062 178,1062 178,1062 178,1175 178,1246 184,1299 197,1334 214,1381 245,1419 289,1448 332,1477 393,1491 472,1491 523,1491 579,1485 640,1473 640,1473 640,1473 613,1316 576,1323 540,1326 507,1326 452,1326 414,1314 391,1291 368,1268 357,1224 357,1160 357,1160 357,1160 357,1062 357,1062 357,1062 564,1062 564,1062 564,1062 564,922 564,922 564,922 357,922 357,922 357,922 357,0 357,0 357,0 178,0 Z"
+           id="path101" />
+      </glyph>
+      <glyph
+         unicode="g"
+         horiz-adv-x="927"
+         id="glyph103">
+        <path
+           d="M 102,-88 C 102,-88 102,-88 277,-114 284,-168 305,-207 338,-232 383,-265 444,-282 521,-282 604,-282 669,-265 714,-232 759,-199 790,-152 806,-92 815,-55 820,22 819,139 740,46 642,0 525,0 379,0 266,53 186,158 106,263 66,390 66,537 66,638 84,732 121,818 158,903 211,969 281,1016 350,1063 432,1086 526,1086 651,1086 755,1035 836,934 836,934 836,934 836,1062 836,1062 836,1062 1002,1062 1002,1062 1002,1062 1002,144 1002,-21 985,-138 952,-207 918,-276 865,-331 792,-371 719,-411 629,-431 522,-431 395,-431 293,-402 215,-345 137,-288 99,-203 102,-88 Z M 251,550 C 251,411 279,309 334,245 389,181 459,149 542,149 625,149 694,181 750,245 806,308 834,408 834,544 834,674 805,772 748,838 690,904 620,937 539,937 459,937 391,905 335,840 279,775 251,678 251,550 Z"
+           id="path105" />
+      </glyph>
+      <glyph
+         unicode="i"
+         horiz-adv-x="160"
+         id="glyph107">
+        <path
+           d="M 136,1259 L 136,1466 316,1466 316,1259 136,1259 Z M 136,0 L 136,1062 316,1062 316,0 136,0 Z"
+           id="path109" />
+      </glyph>
+      <glyph
+         unicode="k"
+         horiz-adv-x="874"
+         id="glyph111">
+        <path
+           d="M 136,0 L 136,1466 316,1466 316,630 742,1062 975,1062 569,668 1016,0 794,0 443,543 316,421 316,0 136,0 Z"
+           id="path113" />
+      </glyph>
+      <glyph
+         unicode="l"
+         horiz-adv-x="186"
+         id="glyph115">
+        <path
+           d="M 131,0 L 131,1466 311,1466 311,0 131,0 Z"
+           id="path117" />
+      </glyph>
+      <glyph
+         unicode="m"
+         horiz-adv-x="1457"
+         id="glyph119">
+        <path
+           d="M 135,0 C 135,0 135,0 135,1062 135,1062 135,1062 296,1062 296,1062 296,1062 296,913 329,965 374,1007 429,1039 484,1070 547,1086 618,1086 697,1086 761,1070 812,1037 862,1004 897,959 918,900 1002,1024 1111,1086 1246,1086 1351,1086 1432,1057 1489,999 1546,940 1574,850 1574,729 1574,729 1574,729 1574,0 1574,0 1574,0 1395,0 1395,0 1395,0 1395,669 1395,741 1389,793 1378,825 1366,856 1345,882 1314,901 1283,920 1247,930 1206,930 1131,930 1069,905 1020,856 971,806 946,726 946,617 946,617 946,617 946,0 946,0 946,0 766,0 766,0 766,0 766,690 766,770 751,830 722,870 693,910 645,930 578,930 527,930 481,917 438,890 395,863 363,824 344,773 325,722 315,648 315,551 315,551 315,551 315,0 315,0 315,0 135,0 Z"
+           id="path121" />
+      </glyph>
+      <glyph
+         unicode="n"
+         horiz-adv-x="848"
+         id="glyph123">
+        <path
+           d="M 135,0 C 135,0 135,0 135,1062 135,1062 135,1062 297,1062 297,1062 297,1062 297,911 375,1028 488,1086 635,1086 699,1086 758,1075 812,1052 865,1029 905,998 932,961 959,924 977,879 988,828 995,795 998,736 998,653 998,653 998,653 998,0 998,0 998,0 818,0 818,0 818,0 818,646 818,719 811,774 797,811 783,847 758,876 723,898 687,919 645,930 597,930 520,930 454,906 399,857 343,808 315,716 315,580 315,580 315,580 315,0 315,0 315,0 135,0 Z"
+           id="path125" />
+      </glyph>
+      <glyph
+         unicode="o"
+         horiz-adv-x="980"
+         id="glyph127">
+        <path
+           d="M 68,531 C 68,728 123,873 232,968 323,1047 435,1086 566,1086 712,1086 831,1038 924,943 1017,847 1063,715 1063,546 1063,409 1043,302 1002,224 961,145 901,84 823,41 744,-2 659,-24 566,-24 417,-24 297,24 206,119 114,214 68,352 68,531 Z M 253,531 C 253,395 283,293 342,226 401,158 476,124 566,124 655,124 730,158 789,226 848,294 878,398 878,537 878,668 848,768 789,836 729,903 655,937 566,937 476,937 401,903 342,836 283,769 253,667 253,531 Z"
+           id="path129" />
+      </glyph>
+      <glyph
+         unicode="p"
+         horiz-adv-x="901"
+         id="glyph131">
+        <path
+           d="M 135,-407 C 135,-407 135,-407 135,1062 135,1062 135,1062 299,1062 299,1062 299,1062 299,924 338,978 381,1019 430,1046 479,1073 538,1086 607,1086 698,1086 778,1063 847,1016 916,969 969,904 1004,819 1039,734 1057,640 1057,539 1057,430 1038,333 999,246 960,159 903,92 829,46 754,-1 676,-24 594,-24 534,-24 480,-11 433,14 385,39 346,71 315,110 315,110 315,110 315,-407 315,-407 315,-407 135,-407 Z M 298,525 C 298,388 326,287 381,222 436,157 503,124 582,124 662,124 731,158 788,226 845,293 873,398 873,540 873,675 845,777 790,844 734,911 667,945 590,945 513,945 446,909 387,838 328,766 298,662 298,525 Z"
+           id="path133" />
+      </glyph>
+      <glyph
+         unicode="r"
+         horiz-adv-x="557"
+         id="glyph135">
+        <path
+           d="M 133,0 C 133,0 133,0 133,1062 133,1062 133,1062 295,1062 295,1062 295,1062 295,901 336,976 375,1026 410,1050 445,1074 483,1086 525,1086 586,1086 647,1067 710,1028 710,1028 710,1028 648,861 604,887 560,900 516,900 477,900 441,888 410,865 379,841 356,808 343,766 323,702 313,632 313,556 313,556 313,556 313,0 313,0 313,0 133,0 Z"
+           id="path137" />
+      </glyph>
+      <glyph
+         unicode="s"
+         horiz-adv-x="874"
+         id="glyph139">
+        <path
+           d="M 63,317 C 63,317 63,317 241,345 251,274 279,219 325,181 370,143 434,124 516,124 599,124 660,141 700,175 740,208 760,248 760,293 760,334 742,366 707,389 682,405 621,425 523,450 391,483 300,512 249,537 198,561 159,595 133,638 106,681 93,728 93,780 93,827 104,871 126,912 147,952 177,985 214,1012 242,1033 280,1050 329,1065 377,1079 429,1086 484,1086 567,1086 641,1074 704,1050 767,1026 813,994 843,953 873,912 894,857 905,788 905,788 905,788 729,764 721,819 698,861 660,892 621,923 567,938 497,938 414,938 355,924 320,897 285,870 267,838 267,801 267,778 274,757 289,738 304,719 327,703 358,690 376,683 429,668 517,644 644,610 733,582 784,561 834,539 873,507 902,466 931,425 945,373 945,312 945,252 928,196 893,143 858,90 807,49 741,20 675,-9 600,-24 517,-24 379,-24 274,5 202,62 129,119 83,204 63,317 Z"
+           id="path141" />
+      </glyph>
+      <glyph
+         unicode="t"
+         horiz-adv-x="504"
+         id="glyph143">
+        <path
+           d="M 528,161 C 528,161 528,161 554,2 503,-9 458,-14 418,-14 353,-14 302,-4 266,17 230,38 205,65 190,99 175,132 168,203 168,311 168,311 168,311 168,922 168,922 168,922 36,922 36,922 36,922 36,1062 36,1062 36,1062 168,1062 168,1062 168,1062 168,1325 168,1325 168,1325 347,1433 347,1433 347,1433 347,1062 347,1062 347,1062 528,1062 528,1062 528,1062 528,922 528,922 528,922 347,922 347,922 347,922 347,301 347,250 350,217 357,202 363,187 373,176 388,167 402,158 422,154 449,154 469,154 495,156 528,161 Z"
+           id="path145" />
+      </glyph>
+      <glyph
+         unicode="u"
+         horiz-adv-x="848"
+         id="glyph147">
+        <path
+           d="M 831,0 C 831,0 831,0 831,156 748,36 636,-24 494,-24 431,-24 373,-12 319,12 264,36 224,66 198,103 171,139 153,183 142,236 135,271 131,327 131,404 131,404 131,404 131,1062 131,1062 131,1062 311,1062 311,1062 311,1062 311,473 311,379 315,316 322,283 333,236 357,199 394,172 431,145 476,131 530,131 584,131 635,145 682,173 729,200 763,238 783,286 802,333 812,402 812,493 812,493 812,493 812,1062 812,1062 812,1062 992,1062 992,1062 992,1062 992,0 992,0 992,0 831,0 Z"
+           id="path149" />
+      </glyph>
+      <glyph
+         unicode="v"
+         horiz-adv-x="954"
+         id="glyph151">
+        <path
+           d="M 430,0 C 430,0 430,0 26,1062 26,1062 26,1062 216,1062 216,1062 216,1062 444,426 469,357 491,286 512,212 528,268 550,335 579,414 579,414 579,414 815,1062 815,1062 815,1062 1000,1062 1000,1062 1000,1062 598,0 598,0 598,0 430,0 Z"
+           id="path153" />
+      </glyph>
+      <glyph
+         unicode="w"
+         horiz-adv-x="1430"
+         id="glyph155">
+        <path
+           d="M 331,0 C 331,0 331,0 6,1062 6,1062 6,1062 192,1062 192,1062 192,1062 361,449 361,449 361,449 424,221 427,232 445,305 479,440 479,440 479,440 648,1062 648,1062 648,1062 833,1062 833,1062 833,1062 992,446 992,446 992,446 1045,243 1045,243 1045,243 1106,448 1106,448 1106,448 1288,1062 1288,1062 1288,1062 1463,1062 1463,1062 1463,1062 1131,0 1131,0 1131,0 944,0 944,0 944,0 775,636 775,636 775,636 734,817 734,817 734,817 519,0 519,0 519,0 331,0 Z"
+           id="path157" />
+      </glyph>
+      <glyph
+         unicode="y"
+         horiz-adv-x="928"
+         id="glyph159">
+        <path
+           d="M 127,-409 C 127,-409 127,-409 107,-240 146,-251 181,-256 210,-256 250,-256 282,-249 306,-236 330,-223 350,-204 365,-180 376,-162 395,-117 420,-46 423,-36 429,-21 436,-2 436,-2 436,-2 33,1062 33,1062 33,1062 227,1062 227,1062 227,1062 448,447 477,369 502,287 525,201 546,284 570,364 599,443 599,443 599,443 826,1062 826,1062 826,1062 1006,1062 1006,1062 1006,1062 602,-18 559,-135 525,-215 501,-259 469,-318 432,-362 391,-389 350,-417 300,-431 243,-431 208,-431 170,-424 127,-409 Z"
+           id="path161" />
+      </glyph>
+    </font>
+    <desc
+       id="desc167">Slide</desc>
+    <desc
+       id="desc1727">Drawing</desc>
+    <desc
+       id="desc239">Drawing</desc>
+    <desc
+       id="desc255">Drawing</desc>
+    <desc
+       id="desc271">Drawing</desc>
+    <desc
+       id="desc287">Drawing</desc>
+    <desc
+       id="desc303">Drawing</desc>
+    <desc
+       id="desc1123">Drawing</desc>
+    <desc
+       id="desc1107">Drawing</desc>
+    <desc
+       id="desc1091">Drawing</desc>
+    <desc
+       id="desc1075">Drawing</desc>
+    <desc
+       id="desc1043">Drawing</desc>
+    <desc
+       id="desc1059">Drawing</desc>
+    <desc
+       id="desc1027">Drawing</desc>
+    <desc
+       id="desc1011">Drawing</desc>
+    <desc
+       id="desc995">Drawing</desc>
+    <desc
+       id="desc979">Drawing</desc>
+    <desc
+       id="desc963">Drawing</desc>
+    <desc
+       id="desc947">Drawing</desc>
+    <desc
+       id="desc931">Drawing</desc>
+    <desc
+       id="desc915">Drawing</desc>
+    <desc
+       id="desc899">Drawing</desc>
+    <desc
+       id="desc883">Drawing</desc>
+    <desc
+       id="desc723">Drawing</desc>
+    <desc
+       id="desc707">Drawing</desc>
+    <desc
+       id="desc691">Drawing</desc>
+    <desc
+       id="desc479">Drawing</desc>
+    <desc
+       id="desc463">Drawing</desc>
+    <desc
+       id="desc447">Drawing</desc>
+    <desc
+       id="desc431">Drawing</desc>
+    <desc
+       id="desc415">Drawing</desc>
+    <desc
+       id="desc399">Drawing</desc>
+    <desc
+       id="desc383">Drawing</desc>
+    <desc
+       id="desc367">Drawing</desc>
+    <desc
+       id="desc351">Drawing</desc>
+    <desc
+       id="desc335">Drawing</desc>
+    <desc
+       id="desc319">Drawing</desc>
+    <desc
+       id="desc495">Drawing</desc>
+    <desc
+       id="desc859">Drawing</desc>
+    <desc
+       id="desc679">Drawing</desc>
+    <desc
+       id="desc643">Drawing</desc>
+    <desc
+       id="desc667">Drawing</desc>
+  </defs>
+  <g
+     visibility="visible"
+     id="Default"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75">
+    <desc
+       id="desc164">Master slide</desc>
+  </g>
+  <g
+     style="visibility:visible"
+     id="g251"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g267"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g283"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g299"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g315"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g331"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g347"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g363"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g379"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g395"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g411"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g427"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g443"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g459"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g475"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g491"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g651"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g675"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g687"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g703"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g719"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g735"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g895"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g911"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g927"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g943"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g959"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g975"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g991"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1007"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1023"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1039"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1055"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1071"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1087"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1103"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1119"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1135"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <g
+     style="visibility:visible"
+     id="g1741"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#9f9eff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:46.93624496;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5741"
+     sodipodi:cx="7118.9561"
+     sodipodi:cy="8625.0996"
+     sodipodi:rx="2597.6038"
+     sodipodi:ry="2266.1104"
+     d="m 9716.5598,8625.0996 a 2597.6038,2266.1104 0 1 1 -5195.2075,0 2597.6038,2266.1104 0 1 1 5195.2075,0 z"
+     transform="matrix(0.70137742,0.49594405,-0.56849222,0.80397699,7232.2807,-1878.5764)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:46.93624496;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path7681"
+     sodipodi:cx="7118.9561"
+     sodipodi:cy="8625.0996"
+     sodipodi:rx="2597.6038"
+     sodipodi:ry="2266.1104"
+     d="m 9716.5598,8625.0996 a 2597.6038,2266.1104 0 1 1 -5195.2075,0 2597.6038,2266.1104 0 1 1 5195.2075,0 z"
+     transform="matrix(0.7874219,0,0,0.9026083,1716.4323,801.3225)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <text
+     xml:space="preserve"
+     style="font-size:683.59124756px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima"
+     x="6110.6357"
+     y="8747.6621"
+     id="text4766"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"><tspan
+       sodipodi:role="line"
+       id="tspan4768"
+       x="6110.6357"
+       y="8747.6621"
+       style="font-size:600.78393555px">Guidance</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:546.87298584px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Optima"
+     id="text9621"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"
+     transform="matrix(0.63468104,-0.77277421,0.77277421,0.63468104,-3953.7758,8792.5321)"><textPath
+       xlink:href="#path9629"
+       id="textPath10600"><tspan
+   style="font-size:546.87298584px"
+   id="tspan9623">Planning             Action            Reflection           Learning</tspan></textPath></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:46.93624496;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path9629"
+     sodipodi:cx="7118.9561"
+     sodipodi:cy="8625.0996"
+     sodipodi:rx="2597.6038"
+     sodipodi:ry="2266.1104"
+     d="M 9716.5598 8625.0996 A 2597.6038 2266.1104 0 1 1  4521.3523,8625.0996 A 2597.6038 2266.1104 0 1 1  9716.5598 8625.0996 z"
+     transform="matrix(-0.8254023,-0.4297763,0.4926453,-0.9461447,8948.9423,19806.56)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <path
+     sodipodi:type="star"
+     style="fill:#00000a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path13534"
+     sodipodi:sides="3"
+     sodipodi:cx="6923.3208"
+     sodipodi:cy="6109.0103"
+     sodipodi:r1="1081.3063"
+     sodipodi:r2="571.53546"
+     sodipodi:arg1="0.88506682"
+     sodipodi:arg2="1.9823841"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 7608.0448,6945.8951 -913.3753,-313.0802 -838.4743,-349.2587 727.8231,-634.4662 721.7041,-551.5106 185.5522,947.5464 116.7702,900.7693 z"
+     transform="matrix(0.1677746,0.2014229,0.2014229,-0.1677746,4966.9199,6081.7953)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path14511"
+     sodipodi:sides="3"
+     sodipodi:cx="6923.3208"
+     sodipodi:cy="6109.0103"
+     sodipodi:r1="1081.3063"
+     sodipodi:r2="571.53546"
+     sodipodi:arg1="0.88506682"
+     sodipodi:arg2="1.9823841"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 7608.0448,6945.8951 L 6694.6695,6632.8149 L 5856.1952,6283.5562 L 6584.0183,5649.09 L 7305.7224,5097.5794 L 7491.2746,6045.1258 L 7608.0448,6945.8951 z "
+     transform="matrix(0.2547777,4.0869233e-2,-4.0869233e-2,0.2547777,5848.2489,8866.53)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="288.72281"
+     y="437.94885"
+     id="text3167"
+     transform="matrix(37.548995,0,0,37.548995,0,-8962.5712)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"><tspan
+       sodipodi:role="line"
+       id="tspan3169"
+       x="288.72281"
+       y="437.94885" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:675.88189697px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="10039.399"
+     y="225.80042"
+     id="text3171"
+     transform="matrix(0.74289741,0.66940529,-0.66940529,0.74289741,0,0)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"><tspan
+       sodipodi:role="line"
+       id="tspan3173"
+       x="10039.399"
+       y="225.80042"
+       style="font-size:450.58795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Optima;-inkscape-font-specification:Optima">Detachment</tspan></text>
+  <text
+     id="use3203"
+     y="12912.136"
+     x="-2058.3718"
+     style="font-size:675.88189697px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"
+     transform="matrix(0.66940529,-0.74289741,0.74289741,0.66940529,0,0)"><tspan
+       style="font-size:450.58795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Optima;-inkscape-font-specification:Optima"
+       y="12912.136"
+       x="-2058.3718"
+       id="tspan3219"
+       sodipodi:role="line">Search</tspan></text>
+  <text
+     id="use3205"
+     y="3117.3796"
+     x="10727.491"
+     style="font-size:675.88189697px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     xml:space="preserve"
+     transform="matrix(0.74289741,0.66940529,-0.66940529,0.74289741,0,0)"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"><tspan
+       style="font-size:450.58795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Optima;-inkscape-font-specification:Optima"
+       y="3117.3796"
+       x="10727.491"
+       id="tspan3215"
+       sodipodi:role="line">Love</tspan></text>
+  <text
+     id="use3207"
+     y="9740.5859"
+     x="-2251.6516"
+     style="font-size:675.88189697px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     xml:space="preserve"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75"
+     transform="matrix(0.66940529,-0.74289741,0.74289741,0.66940529,0,0)"><tspan
+       style="font-size:450.58795166px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Optima;-inkscape-font-specification:Optima"
+       y="9740.5859"
+       x="-2251.6516"
+       id="tspan3211"
+       sodipodi:role="line">Courage</tspan></text>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path13534"
+     id="use3221"
+     transform="matrix(0,1,-1,0,15899.186,1205.4981)"
+     width="27940"
+     height="21590"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path13534"
+     id="use3223"
+     transform="matrix(0,-1,1,0,-1249.4254,15934.328)"
+     width="27940"
+     height="21590"
+     inkscape:export-filename="/Users/mberteig/bci_openagile/Common Materials/Images/Learning Circle.png"
+     inkscape:export-xdpi="599.75"
+     inkscape:export-ydpi="599.75" />
+</svg>
